@@ -1,6 +1,6 @@
 ﻿namespace QuanLyKhachThuePhong
 {
-    partial class Form4
+    partial class DatPhong
     {
         /// <summary>
         /// Required designer variable.
